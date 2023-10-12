@@ -155,7 +155,10 @@ namespace GUI
 
         private void btnTim_Click(object sender, EventArgs e)
         {
-            //List<Sinhvien> sinhviens = new List<Sinhvien>();
+            //StudentModel context = new StudentModel();
+            //List<SinhVien> listsinhvien = context.SinhViens.ToList();
+            //var listNewSinhViens = listsinhvien.Where(s => s.HoTenSV.ToLower().Contains(txtTimkiem.Text)).ToList();
+            //BindGrid(listNewSinhViens);
             string findName = txtTimkiem.Text;
             findName = RemoveDiacritics(findName);
             for (int i = 0; i < dgv.Rows.Count; i++)
