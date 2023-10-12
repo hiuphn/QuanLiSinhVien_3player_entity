@@ -1,0 +1,12 @@
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\bin\Debug\DAL.dll.config
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\bin\Debug\DAL.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\bin\Debug\DAL.pdb
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\bin\Debug\EntityFramework.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\bin\Debug\EntityFramework.xml
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\obj\Debug\DAL.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\DAL\obj\Debug\DAL.pdb

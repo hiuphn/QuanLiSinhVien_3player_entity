@@ -1,0 +1,15 @@
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\BUS.dll.config
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\BUS.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\BUS.pdb
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\DAL.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\EntityFramework.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\DAL.pdb
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\DAL.dll.config
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\EntityFramework.xml
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\obj\Debug\BUS.dll
+D:\C#\TrenLop\PhamHuynhNgocHieu_2180609201\De01\BUS\obj\Debug\BUS.pdb
